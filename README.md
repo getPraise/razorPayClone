@@ -4,7 +4,6 @@ This is a **responsive clone of the Razorpay website**, built using **HTML, CSS,
 
 ### 🚀 Features
 
-- 🔷 Fully responsive design (mobile, tablet, desktop)
 - 🎯 Pixel-perfect layout inspired by the official Razorpay website
 - 🧭 Custom JavaScript slider for interactive sections
 - ⚡ Smooth transitions and animations
@@ -13,7 +12,7 @@ This is a **responsive clone of the Razorpay website**, built using **HTML, CSS,
 ### 🛠️ Tech Stack
 
 - **HTML5** – Semantic structure
-- **CSS3** – Flexbox, Grid, Media Queries for responsiveness
+- **CSS3** – Flexbox, Grid
 - **JavaScript (Vanilla)** – Custom slider and interactivity (no libraries)
 
 ### 📁 Project Highlights
