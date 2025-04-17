@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }) {
       const wrapper = document.getElementById(wrapperId);
       const container = document.getElementById(containerId);
-      const cards = cardClass ? container.querySelectorAll(`.${cardClass}`) : Array.from(container.children);//fewnjfodweDFWACF2A2WAWDF
+      const cards = cardClass ? container.querySelectorAll(`.${cardClass}`) : Array.from(container.children);
       const nextBtn = document.getElementById(nextBtnId);
       const prevBtn = document.getElementById(prevBtnId);
 
